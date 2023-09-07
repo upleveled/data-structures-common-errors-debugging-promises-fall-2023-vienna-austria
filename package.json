@@ -1,0 +1,17 @@
+{
+  "name": "data-structures-common-errors-debugging-promises-fall-2023-vienna-austria",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-upleveled": "^5.0.4",
+    "typescript": "^5.2.2"
+  }
+}
