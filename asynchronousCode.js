@@ -1,4 +1,4 @@
-import fakeFetch from './fake-fetch.js';
+import fakeFetch from './fakeFetch.js';
 
 const htmlData = [];
 
